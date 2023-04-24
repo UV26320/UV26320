@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **web application projects and cyber security projects.**
 
-- <p>📫 How to reach me <a href="mailto:udayvara26@gmail.com"></p>
+- <h3><p>📫 How to reach me <a href="mailto:udayvara26@gmail.com"></p></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
