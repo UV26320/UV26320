@@ -9,7 +9,12 @@
 <p align="left"> <a href="https://twitter.com/UDAYVARA7" target="blank"><img src="https://img.shields.io/twitter/follow/udayvara7?logo=twitter&style=for-the-badge" alt="@udayvara7" /></a> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on upgrading my skills. <br>👯 I'm open to collaborating on web development projects that embrace open source.<br>🌱 I’m currently learning Blockchain technology. <br>💬 Ask me about DSA, Django, React, and MongoDB.<br>⚡ Fun fact: I'm a coffee-fascinated and I love to play chess and solve ruby cubes. <br>📫 How to reach **udayvara26@gmail.com**
+- 🔭 I’m currently working on upgrading my skills.
+- 👯 I'm open to collaborating on web development projects that embrace open source.
+- 🌱 I’m currently learning Blockchain technology.
+- 💬 Ask me about DSA, Django, React, and MongoDB.
+- 📫 How to reach **udayvara26@gmail.com**
+- ⚡ Fun fact: I'm a coffee-fascinated and I love to play chess and solve ruby cubes.
 
 <br>
 
