@@ -8,13 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/UDAYVARA7" target="blank"><img src="https://img.shields.io/twitter/follow/udayvara7?logo=twitter&style=for-the-badge" alt="@udayvara7" /></a> </p>
 
-- 🔭 I’m currently working on **upgrad my skills.**
-
-- 🌱 I’m currently learning **different technologies .**
-
-- 👯 I’m looking to collaborate on **web application projects and cyber security projects.**
-
-- 📫 How to reach **udayvara26@gmail.com**
+# 💫 About Me:
+🔭 I’m currently working on upgrading my skills. <br>👯 I'm open to collaborating on web development projects that embrace open source.<br>🌱 I’m currently learning Blockchain technology. <br>💬 Ask me about DSA, Django, React, and MongoDB.<br>⚡ Fun fact: I'm a coffee-fascinated and I love to play chess and solve ruby cubes. <br>📫 How to reach **udayvara26@gmail.com**
 
 <br>
 
