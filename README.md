@@ -1,26 +1,7 @@
 <h1>Hi There! 👋</h1>
-<h3 align="center">Full Stack Web Developer & Programmer</h3>
+<h4 align="center">I'm Uday Vara and I'm a Full-Stack Web Developer & Programmer currently I'm learning AI/ML.</h4>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uv26320&label=Profile%20views&color=0e75b6&style=flat" alt="uv26320" /> </p>
-
-
-# 💫 About Me:
-- 🔭 I’m currently working on upgrading my skills.
-- 👯 I'm open to collaborating on web development projects that embrace open source.
-- 🌱 I’m currently learning Blockchain technology.
-- 💬 Ask me about DSA, Django, React, and MongoDB.
-- 📫 How to reach **udayvara26@gmail.com**
-- ⚡ Fun fact: I'm a coffee-fascinated and I love to play chess and solve ruby cubes.
-
-<br>
-
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
-</div>
 
 <br/>
 <hr/>
